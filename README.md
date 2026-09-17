@@ -1,7 +1,7 @@
 # DL- Developing a Neural Network Classification Model using Transfer Learning
 
-### Name: P.Pramisha
-### Register Number: 212224230203
+### Name:  SELVAGANESH R
+### Register Number: 212223230200
 
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
